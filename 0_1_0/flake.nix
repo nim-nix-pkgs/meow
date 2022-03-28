@@ -11,7 +11,6 @@
   inputs.src-meow-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-meow-0_1_0.owner = "disruptek";
   inputs.src-meow-0_1_0.repo  = "meow";
-  inputs.src-meow-0_1_0.dir   = "";
   inputs.src-meow-0_1_0.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
